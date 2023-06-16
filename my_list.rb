@@ -30,3 +30,6 @@ puts(list.my_all? { |e| e > 5 })
 
 puts(list.my_any? { |e| e == 2 })
 puts(list.my_any? { |e| e == 5 })
+
+# Test filter
+print(list.my_filter(&:even?))
