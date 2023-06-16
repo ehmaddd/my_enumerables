@@ -16,12 +16,12 @@ end
 list = MyList.new(1, 2, 3, 4)
 
 # Test #all?
-puts list.my_all? {|e| e < 5}
-puts list.my_all? {|e| e > 5}
+puts list.my_all? { |e| e < 5 }
+puts list.my_all? { |e| e > 5 }
 
 # Test #any?
-puts list.my_any? {|e| e == 2}
-puts list.my_any? {|e| e == 5}
+puts list.my_any? { |e| e == 2 }
+puts list.my_any? { |e| e == 5 }
 
-#Test filter
-print list.my_filter {|e| e.even?}
+# Test filter
+print list.my_filter { |e| e.even? }
