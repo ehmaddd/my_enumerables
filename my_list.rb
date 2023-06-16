@@ -6,6 +6,17 @@ class MyList
   def initialize(list)
     @list = list
   end
+  
+  def my_each
+    if block_given?
+      i = 0
+      until i == @list.length
+        yield(@list[i])
+        i += 1
+      end
+    end
+    @list
+  end
 
   def print_list
     print @list
