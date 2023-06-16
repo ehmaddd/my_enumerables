@@ -5,7 +5,9 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-    - [Key Features](#key-features)
+    - [🛠 Built With ](#-built-with-)
+        - [Tech Stack ](#tech-stack-)
+        - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -23,6 +25,25 @@
 # 📖 [MY ENUMERABLES] <a name="about-project"></a>
 
 **[My Enumerables]** is a project based on Ruby in which the built-in enumerables of Ruby (#all?, #any?, #filter) are re-created using best programming approaches.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
+<details>
+  <summary>Server Side / Back-End</summary>
+  <ul>
+      <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  </ul>
+</details>
+
+<details>
+    <summary>Package, Library, Framework</summary>
+      <ul>
+        <li><a href="https://jestjs.io/">Rubocop</a></li>
+      </ul>
+  </details>
 
 <!-- Features -->
 
@@ -102,7 +123,7 @@ By following Usage steps, you will get a fully completed functional database.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ehmaddd/morse_code_decode/issues).
+Feel free to check the [issues page](https://github.com/ehmaddd/my_enumerables/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
