@@ -6,7 +6,7 @@ class MyList
   def initialize(list)
     @list = list
   end
-  
+
   def my_each
     if block_given?
       i = 0
