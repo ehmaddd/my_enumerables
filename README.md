@@ -5,9 +5,9 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-    - [Key Features](#key-features)
 - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -25,16 +25,6 @@
 # 📖 [MY ENUMERABLES] <a name="about-project"></a>
 
 **[My Enumerables]** is a project based on Ruby in which the built-in enumerables of Ruby (#all?, #any?, #filter) are re-created using best programming approaches.
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-- **[Logical breakdown]**
-- **[Easy to understand]**
-- **[Identical to real]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,6 +45,15 @@
       </ul>
   </details>
 
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Logical breakdown]**
+- **[Easy to understand]**
+- **[Identical to real]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
